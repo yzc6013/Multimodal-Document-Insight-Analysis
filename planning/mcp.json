@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "plate-quote": {
+      "url": "https://data-api.investoday.net/data/mcp?apiKey=b04a7df2b76b489484335a26596dfab9"
+    },
+    "zhipu-web-search-sse": {
+        "url": "https://open.bigmodel.cn/api/mcp/web_search/sse?Authorization=66ebd36da69940edb3139df58a08d7ea.xeMGfuEy88BUrlhd"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "default_provider": "dashscope",
+  "default_model": "qwen-turbo",
+  "enable_cost_tracking": true,
+  "cost_alert_threshold": 100.0,
+  "currency_preference": "CNY",
+  "auto_save_usage": true,
+  "max_usage_records": 10000,
+  "data_dir": "C:\\Users\\12075\\Desktop\\TradingAgents-CN\\data",
+  "cache_dir": "C:\\Users\\12075\\Desktop\\TradingAgents-CN\\data\\cache",
+  "results_dir": "./results",
+  "auto_create_dirs": true,
+  "finnhub_api_key": "d208bmpr01qmbi8ritjgd208bmpr01qmbi8ritk0",
+  "reddit_client_id": "your_reddit_client_id",
+  "reddit_client_secret": "your_reddit_client_secret",
+  "reddit_user_agent": "TradingAgents-CN/1.0",
+  "log_level": "INFO"
+}
